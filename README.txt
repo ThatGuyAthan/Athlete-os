@@ -1,0 +1,1 @@
+Athlete OS stores logs locally in this browser. No sync or backup. It is a personal journal, not medical advice or a prescribed training/nutrition plan. It avoids calorie and weight targets. Upload all files in this folder to the root of a GitHub repository, enable GitHub Pages on main / root, then open its HTTPS URL in Safari and use Share > Add to Home Screen.
